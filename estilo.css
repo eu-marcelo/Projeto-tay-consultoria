@@ -1,0 +1,89 @@
+body{
+    width: 100%;
+}
+
+ul li a {
+    padding-right: 10px;
+    color: white;
+}
+
+#home { 
+    background: rgba(255, 255, 255, 0.158)
+      
+}
+
+.posicao {
+    margin: 40px;
+    width: 100%;
+    height: 400px;
+    background-image: url(imagens/escritorio.png);
+}
+
+.container {
+    color: black;
+}
+
+.container-itens {
+    margin: 20px;
+}
+
+.fazemos{
+     
+     margin: 150px 0 20px 250px;
+}
+
+.opcoes1 {
+    
+    margin: 50px 0 20px 50px;
+}
+.conversa {
+    background: rgba(83, 81, 81, 0.308);
+    margin: 15px;
+    height: 500px;
+}
+
+.imagem1{
+    margin: 50px 0 0 30px;
+}
+
+.cinza > p {
+    font-size: 30px;
+}
+
+.opcoes2{
+    margin: 50px 0 20px 50px;
+}
+
+
+.marketing {
+    margin: 50px 0 20px 250px;
+}
+
+.endereco {
+    padding: 10px;
+    color: white;
+    margin: auto;
+}
+
+/*sobre*/
+
+.sobre{
+    margin: 40px;
+}
+
+
+/*contato*/
+
+#formulario {
+    margin: 40px;
+}
+
+.fale {
+    margin: 40px;
+    
+}
+
+.nome, .email, .mensagem{
+    border-radius: 10px;
+    font-weight: bold;
+}
